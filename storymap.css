@@ -25,6 +25,7 @@ p {
 
 .vco-slide .vco-slide-calltoaction .vco-slide-calltoaction-button-text {
  background: #a6433f;
+ transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
 .vco-slide .vco-slide-calltoaction .vco-slide-calltoaction-button-text:hover {
@@ -54,6 +55,10 @@ p {
 .vco-menubar-button:hover {
  background: #fff;
  color: #595246;
+}
+
+.vco-icon-goback:after {
+  display: none;
 }
 
 .vco-media .vco-media-image {
