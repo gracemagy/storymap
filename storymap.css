@@ -66,6 +66,10 @@ p {
  box-shadow: none;
 }
 
+.vco-text p {
+  color: #7a756a;
+}
+
 .vco-map .vco-mapmarker {
  color: #fff;
 }
@@ -95,7 +99,7 @@ p {
 
 .vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:before, .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:before {
  background-color: #a6433f;
- padding: 12px;
+ padding: 15px;
  border: none;
  box-shadow: 0 10px 15px 0 rgba(0,0,0,0.15); 
 }
@@ -118,5 +122,10 @@ p {
 .vco-slidenav-next .vco-slidenav-icon:before {
  content: "\e5c8";
  font-size: 36px;
+}
+
+.vco-slidenav-previous .vco-slidenav-icon,
+.vco-slidenav-next .vco-slidenav-icon {
+ transition: all 0.3s ease;
 }
 
