@@ -5608,7 +5608,7 @@ var KLStoryMap;
                 width: 150,
                 height: 150,
                 aimingRectOptions: {
-                    color: "#c34528",
+                    color: "#a6433f",
                     weight: 1,
                     clickable: !1,
                     stroke: !0
@@ -5640,7 +5640,7 @@ var KLStoryMap;
                         crs: t.options.crs
                     }), this._miniMap.addLayer(this._layer), this._mainMapMoving = !1, this._miniMapMoving = !1, this._userToggledDisplay = !1, this._minimized = !1, this.options.toggleDisplay && this._addToggleButton(), this._miniMap.whenReady(L.Util.bind((function() {
                         this._aimingRect = L.rectangle(this._mainMap.getBounds(), this.options.aimingRectOptions).addTo(this._miniMap), this._shadowRect = L.rectangle(this._mainMap.getBounds(), this.options.shadowRectOptions).addTo(this._miniMap), this._locationCircle = L.circleMarker(this._mainMap.getCenter(), {
-                            fillColor: "#c34528",
+                            fillColor: "#a6433f",
                             color: "#FFFFFF",
                             weight: 2,
                             radius: 10,
