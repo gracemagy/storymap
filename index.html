@@ -23,7 +23,7 @@
 <link rel="alternate" type="application/json+oembed" href="https://oembed.knightlab.com/storymap/?url=https%3A//uploads.knightlab.com/storymapjs/82b1cbdc8ddab7215b0c0f802f8a9f11/annotation/index.html">
 <script type="text/javascript" src="//cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
 <script type="text/javascript" src="//cdn.knightlab.com/libs/storymapjs/latest/js/json2.min.js"></script>
-<script type="text/javascript" src="storymap.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <style>
 html, body {
     width: 100%;
@@ -148,6 +148,11 @@ html, body {
             storymap.updateDisplay();
         }
     }
+  </script>
+  <script type="text/javascript">
+$(document).ready(function(){
+$(".leaflet-control-minimap").css("border","2px solid #595246");
+});
   </script>
 </body>
 </html>
