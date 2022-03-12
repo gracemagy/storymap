@@ -24,7 +24,7 @@ p {
 }
 
 .vco-slide .vco-slide-calltoaction .vco-slide-calltoaction-button-text {
- background: #a6433f;
+ background: #944A47;
  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
@@ -80,7 +80,7 @@ p {
 }
 
 .vco-map .vco-mapmarker-active {
- color: #a6433f;
+ color: #944A47;
 }
 
 
@@ -103,7 +103,7 @@ p {
 }
 
 .vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:before, .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:before {
- background-color: #a6433f;
+ background-color: #944A47;
  padding: 15px;
  border: none;
  box-shadow: 0 10px 15px 0 rgba(0,0,0,0.15); 
@@ -134,3 +134,27 @@ p {
  transition: all 0.3s ease;
 }
 
+.vco-map .leaflet-container .leaflet-top .leaflet-control-minimap {
+  margin-top: 25px;
+}
+
+.vco-map .leaflet-container .leaflet-control-minimap {
+  box-shadow: 0 10px 15px 0 rgba(0,0,0,0.15);
+  border-radius: 7px;
+}
+
+.vco-media .vco-media-content-container .vco-media-content img, .vco-media .vco-media-content-container .vco-media-content embed, .vco-media .vco-media-content-container .vco-media-content object, .vco-media .vco-media-content-container .vco-media-content video {
+max-width: 300px;
+}
+
+h2.vco-headline {
+margin-bottom: 20px;
+}
+
+.vco-storymap h2 {
+ font-size: 40px !important;
+}
+
+.vco-storymap .vco-caption, .vco-storymap .vco-credit {
+font-family: 'Poppins', Helvetica, Arial, sans-serif !important;
+}
