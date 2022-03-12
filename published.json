@@ -80,9 +80,9 @@
       {
         "date": "",
         "location": {
-          "lat": 4.390228926463396,
+          "lat": -9.44906182688142,
           "line": true,
-          "lon": 82.265625,
+          "lon": 79.89257812499999,
           "zoom": 4
         },
         "media": {
@@ -92,97 +92,97 @@
         },
         "text": {
           "headline": "The Spice Islands",
-          "text": "Münster’s\nmap includes the islands of Moluca, Taranate, and Gilolo vel Siloli, what came to be called the “Spice\nIslands.” The Banda Islands are described by Münster but not shown on his map.<br>\n\n\n\n\n\n\n\n<p><br></p><p>“The soil … bringeth forth nothing but\nnutmegs…. The stalk or body of the nutmeg tree, is not much unlike the stalk of\na peach tree, bringing forth like branches and leaves, but somewhat narrower.\nBefore these nuts be ripe, the mace creeps on the tree, like a flourishing\nrose. And when the nutmeg wax ripe, the mace embraces it round about. And so they\ngather both together in commune, at a time appointed [October].”</p>"
+          "text": "<p>Münster’s map includes the islands of Moluca, Taranate, and Gilolo vel Siloli, what came to be called the “Spice Islands.” The Banda Islands are described by Münster but not shown on his map.<br></p><p>“The soil … bringeth forth nothing but\nnutmegs…. The stalk or body of the nutmeg tree, is not much unlike the stalk of\na peach tree, bringing forth like branches and leaves, but somewhat narrower.\nBefore these nuts be ripe, the mace creeps on the tree, like a flourishing\nrose. And when the nutmeg wax ripe, the mace embraces it round about. And so they\ngather both together in commune, at a time appointed [October].”<br></p>"
         }
       },
       {
         "date": "",
+        "location": {
+          "lat": -23.96617587126503,
+          "line": true,
+          "lon": 92.63671875,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/nutmeg.jpg"
+        },
         "text": {
           "headline": "Nutmeg",
           "text": "<p><i>Insvlae\nMolvccae</i>\n[Molucca\nIslands] is a 1598 map by the Dutch merchant Jan Huygen van Linschoten\n(1563-1611), and engraved by William Rogers. The inset\nexplains that these Islands are “most famous because of the\nvast abundance of spices they send to the whole world” and\npoints the reader to the life-like drawings of these spices, including nutmeg\nand mace,depicted at\nthe bottom of the map, and until the mid 19th century sourced only from the\nBanda Islands.</p>"
-        },
-        "media": {
-          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/nutmeg.jpg",
-          "credit": "",
-          "caption": ""
-        },
-        "location": {
-          "line": true,
-          "lat": -9.88227549342994,
-          "lon": 80.068359375,
-          "zoom": 4
         }
       },
       {
         "date": "",
+        "location": {
+          "lat": -38.54816542304657,
+          "line": true,
+          "lon": 46.7578125,
+          "zoom": 2
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
         "text": {
           "headline": "Sea monsters real and imagined",
           "text": "<p>Münster also depicts and describes\nvarious fantatical sea\nmonsters:</p>\n\n<p></p>\n\n<p>“In the sea about this island, are often\ntimes seen the great monstrous fishes, &amp; kind of Whales, called Balene,\nwhich bring many incommodities [inconvenience] to the inhabitants. They are of\nsuch monstrous bigness, that when they approach to the Sea banks, they seem\nlike unto hills: they have rough backs full of sharp pricks. And except men\nwalk very warily by the sea banks, they are in danger to be suddenly swallowed\nup by these monsters. Some of them have so great and wide mouths, that they\nsometimes swallow whole ships with the men.”</p><p>A fully fictional mermaid, here in the two tail form, also appears in the ocean.</p>"
-        },
-        "media": {
-          "url": "",
-          "credit": "",
-          "caption": ""
-        },
-        "location": {
-          "line": true,
-          "lat": -38.54816542304657,
-          "lon": 46.7578125,
-          "zoom": 2
         }
       },
       {
         "date": "",
+        "location": {
+          "lat": -38.54816542304657,
+          "line": true,
+          "lon": 46.7578125,
+          "zoom": 2
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/Sea-monsters-real-and-imagined.jpg"
+        },
         "text": {
           "headline": "Sea monsters real and imagined",
           "text": "<p><i>Die\nLaender Asie\nnach\nihrer\nGelegenheit\nbiss\nin Indiam,\nwerden\nin dieser\nTafeln\nverzeichnet</i>\n[Asia\nincluding countries after\nthe borders of India] is a 1550 German language version of Münster’s\nCosmographia, with the maps hand-tinted.&nbsp;\nIn Antiquity the Roman naturalist Pliny the Elder argued that\nmonstrosities of nature formed readily in water as a result of its nutrients\nand liquid nature. Mermaids were often seen as dangerous creatures of the sea,\nbecause seductive, and able to call to sailors and so shipwreck vessels.</p>"
-        },
-        "media": {
-          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/Sea-monsters-real-and-imagined.jpg",
-          "credit": "",
-          "caption": ""
-        },
-        "location": {
-          "line": true,
-          "lat": -38.54816542304657,
-          "lon": 46.7578125,
-          "zoom": 2
         }
       },
       {
         "date": "",
+        "location": {
+          "lat": -38.54816542304657,
+          "line": true,
+          "lon": 46.7578125,
+          "zoom": 2
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/the-plinian-races.jpg"
+        },
         "text": {
           "headline": "The “Plinian races”",
           "text": "<p>This version of Ptolemy’s map in\nMünster’s <i>Cosmographia</i> is\nsurrounded with “monsters.” These fantastical creatures can be traced back to\naccounts given by the Roman naturalist Pliny the Elder in this <i>Historia\nnaturalis</i>.\nThese\n“Plinian races” were based almost entirely on second-hand accounts, and most\ncertainly mixed fact and fiction.</p>"
-        },
-        "media": {
-          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/the-plinian-races.jpg",
-          "credit": "",
-          "caption": ""
-        },
-        "location": {
-          "line": true,
-          "lat": -38.54816542304657,
-          "lon": 46.7578125,
-          "zoom": 2
         }
       },
       {
         "date": "",
+        "location": {
+          "lat": -38.54816542304657,
+          "line": true,
+          "lon": 46.7578125,
+          "zoom": 2
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/the-plinian-races-2.jpg"
+        },
         "text": {
           "headline": "The “Plinian races”",
           "text": "<p>The\n1360 memoir <i>The Travels of Sir John Mandeville</i>,\ncirculated widely and in many European languages, contained descriptions of\nthese creatures, as did Sebastian Münster’s <i>Cosmographia</i> (1544).&nbsp;&nbsp;&nbsp;</p>"
-        },
-        "media": {
-          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/the-plinian-races-2.jpg",
-          "credit": "",
-          "caption": ""
-        },
-        "location": {
-          "line": true,
-          "lat": -38.54816542304657,
-          "lon": 46.7578125,
-          "zoom": 2
         }
       }
     ],
