@@ -26,10 +26,10 @@
       {
         "date": "",
         "location": {
-          "lat": 2.986927393334876,
+          "lat": 56.12106042504407,
           "line": true,
-          "lon": -16.69921875,
-          "zoom": 4
+          "lon": -77.34374999999999,
+          "zoom": 5
         },
         "media": {
           "caption": "",
@@ -44,10 +44,10 @@
       {
         "date": "",
         "location": {
-          "lat": 12.211180191503997,
+          "lat": 59.62332522313024,
           "line": true,
-          "lon": 9.31640625,
-          "zoom": 4
+          "lon": -61.17187499999999,
+          "zoom": 5
         },
         "media": {
           "caption": "",
@@ -62,10 +62,10 @@
       {
         "date": "",
         "location": {
-          "lat": 12.211180191503997,
+          "lat": 59.62332522313024,
           "line": true,
-          "lon": 9.31640625,
-          "zoom": 4
+          "lon": -61.17187499999999,
+          "zoom": 5
         },
         "media": {
           "caption": "",
@@ -80,10 +80,10 @@
       {
         "date": "",
         "location": {
-          "lat": -9.44906182688142,
+          "lat": 52.3755991766591,
           "line": true,
-          "lon": 79.89257812499999,
-          "zoom": 4
+          "lon": -17.05078125,
+          "zoom": 5
         },
         "media": {
           "caption": "",
@@ -98,10 +98,10 @@
       {
         "date": "",
         "location": {
-          "lat": -23.96617587126503,
+          "lat": 45.98169518512228,
           "line": true,
-          "lon": 92.63671875,
-          "zoom": 4
+          "lon": -9.31640625,
+          "zoom": 5
         },
         "media": {
           "caption": "",
@@ -116,10 +116,10 @@
       {
         "date": "",
         "location": {
-          "lat": -38.54816542304657,
+          "lat": 36.59788913307022,
           "line": true,
-          "lon": 46.7578125,
-          "zoom": 2
+          "lon": -36.5625,
+          "zoom": 3
         },
         "media": {
           "caption": "",
@@ -133,64 +133,64 @@
       },
       {
         "date": "",
-        "location": {
-          "lat": -38.54816542304657,
-          "line": true,
-          "lon": 46.7578125,
-          "zoom": 2
-        },
-        "media": {
-          "caption": "",
-          "credit": "",
-          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/Sea-monsters-real-and-imagined.jpg"
-        },
         "text": {
           "headline": "Sea monsters real and imagined",
-          "text": "<p><i>Die\nLaender Asie\nnach\nihrer\nGelegenheit\nbiss\nin Indiam,\nwerden\nin dieser\nTafeln\nverzeichnet</i>\n[Asia\nincluding countries after\nthe borders of India] is a 1550 German language version of Münster’s\nCosmographia, with the maps hand-tinted.&nbsp;\nIn Antiquity the Roman naturalist Pliny the Elder argued that\nmonstrosities of nature formed readily in water as a result of its nutrients\nand liquid nature. Mermaids were often seen as dangerous creatures of the sea,\nbecause seductive, and able to call to sailors and so shipwreck vessels.</p>"
+          "text": "<p><em>Die Laender Asie nach ihrer Gelegenheit biss in Indiam, werden in dieser Tafeln verzeichnet</em>&nbsp;[Asia including countries after the borders of India] is a 1550 German language version of Münster’s Cosmographia, with the maps hand-tinted.&nbsp; In Antiquity the Roman naturalist Pliny the Elder argued that monstrosities of nature formed readily in water as a result of its nutrients and liquid nature. Mermaids were often seen as dangerous creatures of the sea, because seductive, and able to call to sailors and so shipwreck vessels.</p>"
+        },
+        "media": {
+          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/Sea-monsters-real-and-imagined.jpg",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "lat": 36.59788913307022,
+          "lon": -36.5625,
+          "zoom": 3
         }
       },
       {
         "date": "",
-        "location": {
-          "lat": -38.54816542304657,
-          "line": true,
-          "lon": 46.7578125,
-          "zoom": 2
-        },
-        "media": {
-          "caption": "",
-          "credit": "",
-          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/the-plinian-races.jpg"
-        },
         "text": {
           "headline": "The “Plinian races”",
-          "text": "<p>This version of Ptolemy’s map in\nMünster’s <i>Cosmographia</i> is\nsurrounded with “monsters.” These fantastical creatures can be traced back to\naccounts given by the Roman naturalist Pliny the Elder in this <i>Historia\nnaturalis</i>.\nThese\n“Plinian races” were based almost entirely on second-hand accounts, and most\ncertainly mixed fact and fiction.</p>"
+          "text": "<p>This version of Ptolemy’s map in Münster’s&nbsp;<em>Cosmographia</em>&nbsp;is surrounded with “monsters.” These fantastical creatures can be traced back to accounts given by the Roman naturalist Pliny the Elder in this&nbsp;<em>Historia naturalis</em>. These “Plinian races” were based almost entirely on second-hand accounts, and most certainly mixed fact and fiction.</p>"
+        },
+        "media": {
+          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/the-plinian-races.jpg",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "lat": 36.59788913307022,
+          "lon": -36.5625,
+          "zoom": 3
         }
       },
       {
         "date": "",
-        "location": {
-          "lat": -38.54816542304657,
-          "line": true,
-          "lon": 46.7578125,
-          "zoom": 2
-        },
-        "media": {
-          "caption": "",
-          "credit": "",
-          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/the-plinian-races-2.jpg"
-        },
         "text": {
           "headline": "The “Plinian races”",
-          "text": "<p>The\n1360 memoir <i>The Travels of Sir John Mandeville</i>,\ncirculated widely and in many European languages, contained descriptions of\nthese creatures, as did Sebastian Münster’s <i>Cosmographia</i> (1544).&nbsp;&nbsp;&nbsp;</p>"
+          "text": "<p>The 1360 memoir&nbsp;<em>The Travels of Sir John Mandeville</em>, circulated widely and in many European languages, contained descriptions of these creatures, as did Sebastian Münster’s&nbsp;<em>Cosmographia</em>&nbsp;(1544).&nbsp;</p>"
+        },
+        "media": {
+          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/the-plinian-races-2.jpg",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "lat": 36.59788913307022,
+          "lon": -36.5625,
+          "zoom": 3
         }
       }
     ],
     "zoomify": {
       "attribution": "",
-      "height": 6026,
+      "height": 3788,
       "path": "https://gracemagy.github.io/storymap/",
-      "width": 8000
+      "width": 5000
     }
   }
 }
