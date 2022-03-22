@@ -160,7 +160,7 @@ font-family: 'Poppins', Helvetica, Arial, sans-serif !important;
 }
 
 .vco-storymap p {
-font-size: 14px;
+font-size: 14px !important;
 }
 
 .vco-map .leaflet-container .leaflet-control-attribution a.vco-knightlab-brand {
