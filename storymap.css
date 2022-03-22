@@ -158,3 +158,11 @@ margin-bottom: 20px;
 .vco-storymap .vco-caption, .vco-storymap .vco-credit {
 font-family: 'Poppins', Helvetica, Arial, sans-serif !important;
 }
+
+.vco-storymap p {
+font-size: 14px;
+}
+
+.vco-map .leaflet-container .leaflet-control-attribution a.vco-knightlab-brand {
+ margin-left: 12px;
+}
