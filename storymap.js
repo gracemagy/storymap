@@ -5686,7 +5686,7 @@ var KLStoryMap;
                     this._container.style.width = "0px", this._container.style.height = "0px", this._container.style.border = "0", this._minimized = !0
                 }
                 _restore() {
-                    this._container.style.width = this.options.width + "px", this._container.style.height = this.options.height + "px", this._container.style.border = "2px solid #b3b3b3", this._minimized = !1
+                    this._container.style.width = this.options.width + "px", this._container.style.height = this.options.height + "px", this._container.style.border = "2px solid #595246", this._minimized = !1
                 }
                 _onMainMapMoved(t) {
                     if (this._miniMapMoving) this._miniMapMoving = !1;
