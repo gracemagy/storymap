@@ -91,18 +91,7 @@ html, body {
             script_path: getScriptPath(/storymap(-min)?\.js/),
             start_at_slide: getStartSlide()
         };
-        var font = "stock:default";
-        if(data.font_css) {
-            font = data.font_css;
-        }
-        if(font.indexOf("stock:") == 0) {
-            var font_name = font.split(':')[1];
-            var base_url = urlJoin(options.script_path,"../css/fonts");
-            font = urlJoin(base_url, "font." + font_name + ".css");
-        } else if(!font.match('^(http|https|//)')) {
-            font = urlJoin(options.script_path, font);
-        }
-        KLStoryMap.loadCSS(font,function(){ console.log('font loaded: ' + font);});
+        
 	    storymap = new KLStoryMap.StoryMap('storymap-embed', data, options, {
             title: onStoryMapTitle
         });
