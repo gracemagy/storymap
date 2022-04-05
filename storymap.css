@@ -76,22 +76,32 @@ p {
 }
 
 .vco-map .vco-mapmarker {
- color: #fff;
+ color: #944A47;
+ background: #fff;
 }
 
 .vco-map .vco-mapmarker-active {
- color: #944A47;
+ color: #fff;
+ background: #944A47;
 }
-
 
 .vco-map .vco-mapmarker, .vco-map .vco-mapmarker-active {
  font-family: 'Material Icons';
+ text-align: center;
+}
+
+.vco-map .vco-mapmarker, .vco-map .vco-mapmarker-active {
+ width: 36px !important;
+ height: 36px !important;
+ border-radius: 50%;
+ box-shadow: 0 5px 10px 0 rgba(0,0,0,0.15)
 }
 
 .vco-map .vco-mapmarker:before, .vco-map .vco-mapmarker-active:before {
  content: "\e0c8";
- font-size: 58px;
- text-shadow: 1px 2px #595246;
+ font-size: 24px;
+ line-height: 36px;
+ text-shadow: none;
 }
 
 .vco-map .vco-mapmarker-icon:after {
