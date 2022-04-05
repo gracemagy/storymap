@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.vco-storymap h1, .vco-storymap h2, .vco-storymap h3, .vco-storymap h4, .vco-storymap h5, .vco-storymap h6 {
+ font-family: 'Poppins', Helvetica, Arial, sans-serif !important;
+ color: #595246 !important;
+ line-height: 1.5 !important;
+}
+
+p {
+ font-family: 'Poppins', Helvetica, Arial, sans-serif !important;
+ line-height: 1.5 !important;
+}
+
+.vco-full-image-background .vco-text, .vco-full-color-background .vco-text, .vco-full-image-background .vco-text p, .vco-full-color-background .vco-text p {
+ color: #ddd !important;
+}
+
+.vco-slide.vco-full-image-background p, .vco-slide.vco-full-color-background p, .vco-slide.vco-full-image-background h1, .vco-slide.vco-full-color-background h1, .vco-slide.vco-full-image-background h2, .vco-slide.vco-full-color-background h2, .vco-slide.vco-full-image-background h3, .vco-slide.vco-full-color-background h3, .vco-slide.vco-full-image-background h4, .vco-slide.vco-full-color-background h4, .vco-slide.vco-full-image-background h5, .vco-slide.vco-full-color-background h5, .vco-slide.vco-full-image-background h6, .vco-slide.vco-full-color-background h6 {
+ text-shadow: none !important;
+}
+
+.vco-slide.vco-full-image-background, .vco-slide.vco-full-color-background {
+ text-shadow: none !important;
+}
+
+.vco-slide .vco-slide-calltoaction .vco-slide-calltoaction-button-text {
+ background: #944A47;
+ transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.vco-slide .vco-slide-calltoaction .vco-slide-calltoaction-button-text:hover {
+ background: #8a3834;
+}
+
+.vco-storymap .vco-slidenav-next, .vco-storymap .vco-slidenav-previous, .vco-storymap .vco-message, .vco-storymap .vco-slide-calltoaction-button-text {
+  font-family: 'Poppins', Helvetica, Arial, sans-serif !important;
+}
+
+.vco-storymap .vco-menubar {
+  font-family: 'Poppins', Helvetica, Arial, sans-serif !important;
+}
+
+.vco-menubar {
+ border: none;
+ box-shadow: 0 10px 15px 0 rgba(0,0,0,0.1);
+ padding: 8px 0px;
+ background: #fff;
+}
+
+.vco-menubar-button {
+ padding: 6px 15px;
+ color: #595246;
+}
+
+.vco-menubar-button:hover {
+ background: #fff;
+ color: #595246;
+}
+
+.vco-icon-goback:after {
+  display: none;
+}
+
+.vco-media .vco-media-image {
+ border-radius: 15px;
+}
+
+.vco-media-shadow {
+ -webkit-box-shadow: none;
+ -moz-box-shadow: none;
+ box-shadow: none;
+}
+
+.vco-text p {
+  color: #7a756a;
+}
+
+.vco-map .vco-mapmarker {
+ color: #944A47;
+ background: #fff;
+}
+
+.vco-map .vco-mapmarker-active {
+ color: #fff;
+ background: #944A47;
+}
+
+.vco-map .vco-mapmarker, .vco-map .vco-mapmarker-active {
+ font-family: 'Material Icons';
+ text-align: center;
+}
+
+.vco-map .vco-mapmarker, .vco-map .vco-mapmarker-active {
+ width: 36px !important;
+ height: 36px !important;
+ border-radius: 50%;
+ box-shadow: 0 5px 10px 0 rgba(0,0,0,0.15)
+}
+
+.vco-map .vco-mapmarker:before, .vco-map .vco-mapmarker-active:before {
+ content: "\e0c8";
+ font-size: 24px;
+ line-height: 36px;
+ text-shadow: none;
+}
+
+.vco-map .vco-mapmarker-icon:after {
+ display: none;
+}
+
+.vco-slidenav-next .vco-slidenav-icon, .vco-slidenav-previous .vco-slidenav-icon {
+ font-family: 'Material Icons';
+}
+
+.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:before, .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:before {
+ background-color: #944A47;
+ padding: 15px;
+ border: none;
+ box-shadow: 0 10px 15px 0 rgba(0,0,0,0.15); 
+}
+
+.vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:before {
+ border-bottom-right-radius: 10px;
+ border-top-right-radius: 10px;
+}
+
+.vco-slidenav-previous .vco-slidenav-icon:before {
+ content: "\e5c4";
+ font-size: 36px;
+}
+
+.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:before {
+ border-bottom-left-radius: 10px;
+ border-top-left-radius: 10px;
+}
+
+.vco-slidenav-next .vco-slidenav-icon:before {
+ content: "\e5c8";
+ font-size: 36px;
+}
+
+.vco-slidenav-previous .vco-slidenav-icon,
+.vco-slidenav-next .vco-slidenav-icon {
+ transition: all 0.3s ease;
+}
+
+.vco-map .leaflet-container .leaflet-top .leaflet-control-minimap {
+  margin-top: 25px;
+}
+
+.vco-map .leaflet-container .leaflet-control-minimap {
+  box-shadow: 0 10px 15px 0 rgba(0,0,0,0.15);
+  border-radius: 7px;
+}
+
+.vco-media .vco-media-content-container .vco-media-content img, .vco-media .vco-media-content-container .vco-media-content embed, .vco-media .vco-media-content-container .vco-media-content object, .vco-media .vco-media-content-container .vco-media-content video {
+max-width: 300px;
+margin-top: 30px;
+}
+
+h2.vco-headline {
+margin-bottom: 20px;
+}
+
+.vco-storymap h2 {
+ font-size: 40px !important;
+}
+
+.vco-storymap .vco-caption, .vco-storymap .vco-credit {
+font-family: 'Poppins', Helvetica, Arial, sans-serif !important;
+}
+
+.vco-storymap p {
+font-size: 14px !important;
+}
+
+.vco-map .leaflet-container .leaflet-control-attribution a.vco-knightlab-brand {
+ margin-left: 12px;
+}
