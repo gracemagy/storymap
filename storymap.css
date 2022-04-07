@@ -75,6 +75,20 @@ p {
   color: #7a756a;
 }
 
+.vco-storymap p u {
+ font-size: 10px;
+ text-decoration: none;
+}
+
+.vco-storymap p a {
+ text-shadow: none;
+ color: #7a756a;
+}
+
+.vco-storymap p a:hover, .vco-storymap p a:focus {
+ color: #944A47;
+}
+
 .vco-map .vco-mapmarker {
  color: #944A47;
  background: #fff;
