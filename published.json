@@ -10,7 +10,8 @@
       {
         "date": "",
         "location": {
-          "line": true
+          "line": true,
+          "zoom": 0.5
         },
         "media": {
           "caption": "",
