@@ -1,5 +1,6 @@
 {
   "font_css": "stock:georgia-helvetica",
+  "calculate_zoom": false, 
   "storymap": {
     "call_to_action": true,
     "call_to_action_text": "",
