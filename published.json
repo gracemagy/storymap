@@ -1,26 +1,162 @@
-{"font_css": "stock:georgia-helvetica", 
-"storymap": {"attribution": "", 
-"call_to_action": true, "call_to_action_text": "", 
-"map_as_image": false, "map_background_color": "#000000", 
-"map_subdomains": "", 
-"map_type": "zoomify", 
-"slides": [{"background": {"url": "https://github.com/paultan/StoryMaps/raw/main/assets/images/full.png"}, "date": "", 
-"location": {"line": true}, "media": {"caption": "", 
-"credit": "", 
-"url": ""}, "text": {"headline": "India extrema XIX nova Tabvla", 
-"text": "This\nmap of Asia is from Sebastian M\u00fcnster's revised edition of Ptolemy's Geographia\nuniversalis. The map contains many inaccuracies reflecting the lack of good,\nfirst-hand explorations of Asia. The Indian sub-continent is shown too\nsmall, whereas in contrast Southeast Asia is beginning to be depicted somewhat\ncorrectly. Ceylon, (Zaylon)\nonce shown as a very large island, is now more its proper size, though two\nislands are shown in the immediate area. -- Dealer's description."}, "type": "overview"}, {"date": "", 
-"location": {"lat": 26.43122806450644, "lon": -88.59374999999999, "zoom": 3}, "media": {"caption": "", 
-"credit": "", 
-"url": "https://github.com/paultan/StoryMaps/raw/main/assets/images/image1.png"}, "text": {"headline": "The Balene", 
-"text": "<p>In the sea about this island, are often\ntimes seen the great monstrous fishes, &amp; kind of Whales, called Balene,\nwhich bring many incommodities [inconvenience] to the inhabitants. They are of\nsuch monstrous bigness, that when they approach to the Sea banks, they seem\nlike unto hills: they have rough backs full of sharp pricks. And except men\nwalk very warily by the sea banks, they are in danger to b suddenly swallowed\nup by these monsters. Some of them have so great and wide mouths, that they\nsometimes swallow whole ships with the men. </p>"}}, {"date": "", 
-"location": {"lat": 53.330872983017066, "line": true, "lon": -80.15625, "zoom": 3}, "media": {"caption": "", 
-"credit": "", 
-"url": "https://github.com/paultan/StoryMaps/raw/main/assets/images/image2.png"}, "text": {"headline": "Malacca, Malaqua", 
-"text": "<p>This Malacca, has a goodly &amp;\ncommodious haven: by reason whereof, more ships arrive there than in any other\nplace: bringing with them spices and other merchandise in great abundance. The\nregion is not generally fruitful, yet it has grain [rice] and fish: but great\nscarceness of wood. The souls wander in the fields as they do in the region of\nCalicut [Kolkatha].\nBut the popinjays [parrots] are here much fairer. It brings forth also spices, saunders [red\nsandalwood], tin, elephants, horses, sheep [goats] wild ox, peacocks, and such\nother kinds of beasts. It is not lawful there to buy and sell, except you buy\nspices and silk. It is also there very dangerous to walk in the city in the\nnight season, because of the theft &amp;\ncruelness of the inhabitants, which kill one another like dogs. And therefore the\nmerchant strangers [visitors] lodge not out of their ships. </p>"}}, {"date": "", 
-"location": {"lat": 50.28933925329178, "line": true, "lon": -43.59375, "zoom": 3}, "media": {"caption": "", 
-"credit": "", 
-"url": "https://github.com/paultan/StoryMaps/raw/main/assets/images/image3.png"}, "text": {"headline": "the Island of Banda", 
-"text": "<p>The Island of Banda\u2026 is but rude and\nbarren, and of plain and low ground, whose\ninhabitants are barbarous, &amp; little differing from beasts, having low\nhouses, and no apparel but shirts, barefooted and bareheaded, with long heir,\nof despicable stature, dull witted, of no strength, and Idolaters\n[idol-worshippers]. The\nsoil of this country, bringeth forth nothing but nutmegs, &amp; a few other\nfruits. The stalk or body of the nutmeg tree, is not much unlike the stalk of a\npeach tree, bringing forth like branches and leaves, but somewhat narrower.\nBefore these nuts be ripe, the mace creepeth on the tree, like a flourishing rose.\nAnd when the nutmeg waxeth\nripe, the mace embraces it round about. And so they gather both together in commune, at\na time appointed: for they use no distribution thereof, but he that gathered\nmost, hath most. This tree bringeth forth his fruit plentifully without any art\nof husbandry or tillage. They are gathered at such time as we gather chestnuts\n[October]. </p>"}}], "zoomify": {"attribution": "", 
-"height": 3013, "path": "https://paultan.github.io/StoryMaps/", 
-"width": 4000}}}
-
+{
+  "font_css": "stock:georgia-helvetica",
+  "calculate_zoom": false, 
+  "storymap": {
+    "call_to_action": true,
+    "call_to_action_text": "",
+    "map_as_image": true,
+    "map_background_color": "#f8f3ed",
+    "map_type": "zoomify",
+    "slides": [
+      {
+        "date": "",
+        "location": {
+          "line": true,
+          "zoom": 5
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "Beyond India – Mapping Southeast Asia",
+          "text": "<p>Münster's <em>Cosmographia</em> included a revised version of Ptolemy’s map of the area we today call Southeast Asia, entitled <em>India extrema XIX nova Tabvla</em> (India and beyond 19th new map) [15]. Let’s explore further what new cartographic facts and fictions about the region were documented in this map and the accompanying text. </p>"
+        },
+        "type": "overview"
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 56.12106042504407,
+          "line": true,
+          "lon": -77.34374999999999,
+          "zoom": 5
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "Sumatra Appears",
+          "text": "<p>An important new fact shown in the \"XIX Tabula\" (Nineteenth Map) is the depiction of large island to the southwest of the Malay peninsula. The island is given two names by Münster – Taprobana and Sumatra. This is both a correction to the Ptolemaic representation of the region, which does not show Sumatra as a separate island, and creates a confusion, as Taprobana was the name used for Sri Lanka in early European cartographies.</p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 59.62332522313024,
+          "line": true,
+          "lon": -61.17187499999999,
+          "zoom": 5
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "The Emporia of Malacca",
+          "text": "<p>Münster’s <em>Cosmographia</em> describes in detail the importance of Malacca (Malaqua).</p><p>\"This Malaqua, has a goodly & commodious haven: by reason whereof, more ships arrive there than in any other place: bringing with them spices and other merchandise in great abundance. The region is not generally fruitful, yet it has grain and fish: but great scarceness of wood…. It brings forth also spices, saunders, tin, elephants, horses, sheep, wild ox, peacocks, and such other kinds of beasts. It is not lawful there to buy and sell, except you buy spices and silk. It is also there very dangerous to walk in the city in the night season, because of the theft & cruelness of the inhabitants, which kill one another …. therefore the merchant strangers lodge not out of their ships [16].\"</p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 59.62332522313024,
+          "line": true,
+          "lon": -61.17187499999999,
+          "zoom": 5
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/Malay-Annals.jpg"
+        },
+        "text": {
+          "headline": "...in the Malay Annals",
+          "text": "<p>The <em>Malay Annals </em>(originally <em>Sulalatus Salatin </em>or<em> Geneaology of Kings</em>) was composed between the 15th and 16th centuries by an unknown author. It offers a different view of early Malacca than that given by Münster.</p><p>\"It became noted in every country…. All the merchants likewise, whether from above or under the wind, frequented Malaca… all the Arabs gave it the name of Malakat, or the mart for collecting all merchants; for many different races of merchants frequented it, and all its great men were extremely just in all their proceedings….and equitable in the protection of all strangers [17]\".</p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 52.3755991766591,
+          "line": true,
+          "lon": -17.05078125,
+          "zoom": 5
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "The Spice Islands",
+          "text": "<p>Münster’s map includes the \"Spice Islands\" of Maluca, Taranate and Gilolo vel Siloli. The Banda Islands, the sole source of nutmeg and mace, do not appear on his map but are described.</p>\n<p>\"The soil … bringeth forth nothing but nutmegs…. The stalk or body of the nutmeg tree, is not much unlike the stalk of a peach tree, bringing forth like branches and leaves, but somewhat narrower. Before these nuts be ripe, the mace creeps on the tree, like a flourishing rose. And when the nutmeg wax ripe, the mace embraces it round about. And so they gather both together in commune, at a time appointed [18].\"</p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 45.98169518512228,
+          "line": true,
+          "lon": -9.31640625,
+          "zoom": 5
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/nutmeg.jpg"
+        },
+        "text": {
+          "headline": "",
+          "text": "<p>A 1598 map Molucca Islands [<em>Insvlae Molvccae</em>] by Dutch merchant Jan Huygen van Linschoten (1563-1611) explains the islands as \"most famous because of the vast abundance of spices they send to the whole world\" and provides with life-like drawings of nutmeg and mace [19]\".</p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 36.59788913307022,
+          "line": true,
+          "lon": -36.5625,
+          "zoom": 3
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "Sea Monsters Real and Imagined",
+          "text": "<p>Münster also depicts and describes various fantastical sea monsters:</p><p>\"In the sea about this island, are often times seen the great monstrous fishes, &amp; kind of Whales, called Balene, which bring many incommodities [inconvenience] to the inhabitants. They are of such monstrous bigness, that when they approach to the Sea banks, they seem like unto hills: they have rough backs full of sharp pricks. And except men walk very warily by the sea banks, they are in danger to be suddenly swallowed up by these monsters. Some of them have so great and wide mouths, that they sometimes swallow whole ships with the men [20].\"</p><p>A fully fictional mermaid, here in the two tail form, also appears in the ocean.</p>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 36.59788913307022,
+          "line": true,
+          "lon": -36.5625,
+          "zoom": 3
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": "https://raw.githubusercontent.com/gracemagy/storymap/Imagined-geographies/assets/images/Sea-monsters-real-and-imagined.jpg"
+        },
+        "text": {
+          "headline": "The Two Tailed Mermaids",
+          "text": "<p>In this 1550 German language version of Münster's <em>Cosmographia</em> the mermaid is hand tinted. Many cultures have mermaid mythologies. Today many of us know this two tailed mermaid from the icon for a famous coffee shop [18].</p>"
+        }
+      }
+    ],
+    "zoomify": {
+      "attribution": "",
+      "height": 3788,
+      "path": "https://gracemagy.github.io/storymap/",
+      "width": 5000
+    }
+  }
+}
